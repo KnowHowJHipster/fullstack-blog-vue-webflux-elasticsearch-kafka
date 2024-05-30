@@ -1,0 +1,4 @@
+org.springframework.test.context.ContextCustomizerFactory = org.iqkv.blog.\
+    config.SqlTestContainersSpringContextCustomizerFactory,org.iqkv.blog.config.\
+    TestContainersSpringContextCustomizerFactory,org.iqkv.blog.config.\
+    KafkaTestContainersSpringContextCustomizerFactory
